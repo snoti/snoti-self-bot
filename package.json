@@ -5,6 +5,7 @@
   "description": "self bot",
   "main": "SnotiPrivate.js",
   "scripts": {
+  "test": "echo "Error: no test specified" && exit 1"
   },
   "author": "ZebulonDesigns",
   "license": "GPL-3.0",
