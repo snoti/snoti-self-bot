@@ -1,1 +1,1 @@
-node SnotiPrivate.js
+worker: node SnotiPrivate.js
