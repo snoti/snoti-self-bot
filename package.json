@@ -1,9 +1,9 @@
 
 {
-  "name": "mowgl-self-private",
+  "name": "snoti-snoti",
   "version": "1.0.0",
   "description": "self bot",
-  "main": "MowgliPrivate.js",
+  "main": "SnotiPrivate.js",
   "scripts": {
   },
   "author": "ZebulonDesigns",
